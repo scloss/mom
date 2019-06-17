@@ -1,0 +1,38 @@
+fault_type,(All),
+reason,(Multiple Items),
+duration,(Multiple Items),
+region,(Multiple Items),
+problem_category,(All),
+severity,Critical,
+,,
+Row Labels,Count of fault_id,Sum of duration
+Barisal_OM1_SC,1,28.1125
+SPSDR03-ACX2100 to Info-Sarker_GSRHT_SW1,1,28.1125
+Bogra_OM3_SC,2,74.0611
+BOSBG01 to GBGBD01-AGG,1,45.2125
+NASDR02 to NAMDB01,1,28.8486
+Chittagong_OM2_SC,1,26.1453
+CTG_R1973 to CGPCH18,1,26.1453
+Dhaka_Banani_OM1_SC,1,25.5258
+ROBI Biometric to BTRC Route Down,1,25.5258
+Dhaka_Dhanmondi_OM1_SC,1,24.1153
+DHK_MOG_CORE to Keranigong_DHK0885,1,24.1153
+Dhaka_Paltan_OM1_SC,1,27.5781
+DHK_X1981 to DHPTLC01,1,27.5781
+Dhaka_Uttara_OM1_SC,1,38.6333
+"DHUTRC01JR01P_MX480 to 	DHPTNC01JR01P_MX480",1,38.6333
+Faridpur_OM3_SC,1,50.5519
+MASRP03 to Info-Sarker Rajbari-Baliakandi SW2,1,50.5519
+Mymensingh_OM1_SC,1,74.9167
+"Upazilla Co-operative Office, Kendua, Netrokona",1,74.9167
+Narayanganj_OM1_SC,1,24.1319
+DHK_X0973 to DHK_X4277,1,24.1319
+Sylhet_OM2_SC,2,67.9042
+Balaganj Education Office,1,24.8481
+SYSDR14 to Info-Sarker Switch Port-Companyganj,1,43.0561
+Underground_SC,4,139.2234
+Bashundhara Gate EP To UCB Islami Bank EP_Core,1,36.1328
+BTCL Mogbazar POC To Bangladesh Bank POC_Core,1,28.8967
+GETCO To DH0325_Core (Kaderia to BTRC link ),1,48.6472
+Mango POC To Easter Tower POC_Core,1,25.5467
+Grand Total,17,600.8995
